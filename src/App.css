@@ -36,8 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.pack:hover {
-  cursor: pointer;
-  user-select: none;
-}

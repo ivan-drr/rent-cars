@@ -1,6 +1,7 @@
-import React, { useRef, useState, useEffect } from "react";
-import { unrentCar, rentCar } from "../services/renting-service";
-import useWatchCars from "../hooks/useWatchCars";
+import React, { useRef, useState, useEffect } from "react"
+import { unrentCar, rentCar } from "../services/renting-service"
+import useWatchCars from "../hooks/useWatchCars"
+import '../styles/Pack.css'
 
 function Pack(props) {
   const [renting, setRenting] = useState();
