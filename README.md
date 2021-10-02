@@ -1,8 +1,8 @@
 # New undefault valuable information
 
-To fast check project on vscode: [Editor](https://github.dev/ivan-drr/rent-cars){:target="_blank"}
+To fast check project on vscode: [Editor](https://github.dev/ivan-drr/rent-cars)
 
-To run it without cloning locally: [Virtual Workspace](https://gitpod.io/#github.com/ivan-drr/rent-cars){:target="_blank"}
+To run it without cloning locally: [Virtual Workspace](https://gitpod.io/#github.com/ivan-drr/rent-cars)
 and type on terminal **npm install** and then **npm start**.
 
 # Default create react app info
