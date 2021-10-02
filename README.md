@@ -3,7 +3,7 @@
 To fast check project on vscode: [Editor](https://github.dev/ivan-drr/rent-cars)
 
 To run it without cloning locally: [Virtual Workspace](https://gitpod.io/#github.com/ivan-drr/rent-cars)
-And type on terminal **npm install** and then **npm start**.
+and type on terminal **npm install** and then **npm start**.
 
 # Default create react app info
 
