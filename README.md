@@ -7,6 +7,8 @@ and type on terminal **yarn install** and then **yarn start**.
 
 Deploy: [Rent Cars](https://ivan-drr.github.io/rent-cars/)
 
+> Try to open two times the link and see how the data change reactively, this is thanks to firebase watchers combined with react hooks
+
 # Default create react app info
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
